@@ -135,5 +135,5 @@ kaggle.json
 packages/ml_api/uploads/*
 
 .vscode/
-.circleci/
+
 .dockerignore
